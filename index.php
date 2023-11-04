@@ -31,7 +31,7 @@
 				<div class="wrap_header">
 					<!-- Logo -->
 					<a href="index.php" class="logo">
-						<img src="images/icons/logo.png" alt="IMG-LOGO">
+						<img src="images/icons/logo2.png">
 					</a>
 
 					<!-- Header Icon -->
@@ -43,7 +43,7 @@
 			<div class="wrap_header_mobile">
 				<!-- Logo moblie -->
 				<a href="index.php" class="logo-mobile">
-					<img src="images/icons/logo.png" alt="IMG-LOGO">
+					<img src="images/icons/logo2.png" alt="IMG-LOGO">
 				</a>
 			</div>
 			</div>
